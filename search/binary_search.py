@@ -2,6 +2,7 @@ def binary_search(list, target):
     """
     Returns the index position of the target if found, else returns None
     Time complexity: O(log n)
+    Space complexity: O(1)
     """
 
     first = 0
